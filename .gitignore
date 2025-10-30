@@ -1,5 +1,4 @@
 # Environment variables
-.env
-.env.local
-.env.production
-.env
+easybudget_api/.env
+easybudget_api/.env.local
+easybudget_api/.env.production
